@@ -4,7 +4,7 @@ A prototype multi-agent system that takes a founder's rough startup pitch and re
 
 Built as Lab 9 using the OpenAI Agents SDK.
 
-## Background
+## Background 
 
 Pitchwise is a (fictional) startup accelerator whose partners are overwhelmed with practice pitch drafts before demo day. They want a first-pass screen that reflects *their* standards rather than generic AI coaching, so partners can spend review time on pitches that have already reached a baseline quality.
 
